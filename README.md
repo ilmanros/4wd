@@ -13,4 +13,4 @@ Wireless 4wd
 ![image](https://user-images.githubusercontent.com/18106704/149629406-95474154-70a7-4961-828e-4d6f943c92ef.png)
 
 
-VIDEO   intip.in/videoprojek4wd 
+VIDEO  https://intip.in/videoprojek4wd 
