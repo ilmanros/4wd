@@ -9,3 +9,6 @@ Wireless 4wd
 5. kombinasi analog kiri (<128) dan analog kanan (<128) untuk serong kiri maju atau (>128) untuk serong kanan maju.
 6. kombinasi analog kiri (>128) dan analog kanan (<128) untuk serong kiri mundur atau (>128) untuk serong kanan mundur.
 7. tombol R1 untuk maju hingga nilai pembacaan sensor ultrasonic <20cm.
+
+![Uploading image.png…]()
+
